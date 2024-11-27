@@ -1,2 +1,2 @@
-# 2024-Gradient-Boosting-Trees
-This is an assignment from Data Science Boot Camp at dibimbing.id to experiment with some gradient boosting trees model.
+# Gradient Boosting Trees
+In this project, we have a house price dataset. The task is to experiment with gradient-boosting tree regressors: Gradient Boosting Regressor, XGB Regressor, and LGBM Regressor. Then, we analyze those models' results and decide which is the best for this study case.
